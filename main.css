@@ -1,0 +1,49 @@
+html {
+    width: 100%;
+    height: 100%;
+    /*
+    amongus = sus;
+    */
+}
+#main {
+    background-image: linear-gradient(rgb(232, 232, 227), rgb(232, 232, 227) 35.8%, rgb(205, 201, 196) 35.8%, rgb(232, 232, 227) 60%);
+    background-size: 100%;
+    background-attachment: fixed;
+    margin: 1px;
+    width: 100%;
+    height: 100%;
+    padding: 1px 0px;
+}
+
+
+#sub {
+    width: 51.7%;     
+    margin: 74px auto; 
+    height: 100%;
+}
+
+#imageid {
+    height: 9%;
+}
+
+#main {
+
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+}
+#dateandtime {
+    position: fixed;
+    top: 0px;
+    color: white;
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 12px;
+    background-color: black;
+    border-bottom: 4px solid transparent;
+    border-image: linear-gradient(black, #d4d4cf) 30 30 fill;
+    width: 100%;
+}
+.dateandtimeclass {
+    margin: 13px auto;
+    width: 54%;
+}
